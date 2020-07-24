@@ -1,2 +1,2 @@
-# abhijit-Training
+# Java Training
 Abhijits Java Training repository
